@@ -1,0 +1,12 @@
+# this repository is a read-only copy, so every report goes to the repository the theme is made in
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem or suggest a change
+    url: https://github.com/zacesshq/themes/issues/new/choose
+    about: Zacess High Contrast for Obsidian is made in zacesshq/themes. Problems, ideas and colour requests go there.
+  - name: Ask a question
+    url: https://github.com/orgs/zacesshq/discussions
+    about: Questions and ideas about Zacess themes.
+  - name: AI policy
+    url: https://github.com/zacesshq/.github/blob/main/AI_POLICY.md
+    about: How AI may and may not be used in issues and pull requests here.
